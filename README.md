@@ -17,6 +17,7 @@ It is work in progress, but functions well.
 - [x] [C][tree-sitter-c]
 - [x] [C++][tree-sitter-cpp]
 - [x] [Diff][tree-sitter-diff]
+- [x] [Elixir][tree-sitter-elixir]
 - [x] [Go][tree-sitter-go]
 - [x] [go.mod][tree-sitter-go-mod]
 - [x] [Lua][tree-sitter-lua]
@@ -116,6 +117,7 @@ MIT
 [tree-sitter-c]: https://github.com/tree-sitter/tree-sitter-c
 [tree-sitter-cpp]: https://github.com/tree-sitter/tree-sitter-cpp
 [tree-sitter-diff]: https://github.com/the-mikedavis/tree-sitter-diff
+[tree-sitter-elixir]: https://github.com/elixir-lang/tree-sitter-elixir
 [tree-sitter-go]: https://github.com/tree-sitter/tree-sitter-go
 [tree-sitter-go-mod]: https://github.com/camdencheek/tree-sitter-go-mod
 [tree-sitter-lua]: https://github.com/MunifTanjim/tree-sitter-lua
